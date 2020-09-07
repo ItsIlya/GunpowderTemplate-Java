@@ -1,2 +1,2 @@
 # GunpowderTemplate-Java
-  Template for creating Gunpowder modules in Java
+Template for creating Gunpowder modules in Java
